@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Veer Mehta
-- 📫 You can contact me at my Email ID: veeramehta09@gmail.com
+- 📫 You can contact me at: veeramehta09@gmail.com
 - 📷 My YouTube channel, for game previews: https://www.youtube.com/channel/UCh3W3wp21DUy8d5Y_VTLFVg
