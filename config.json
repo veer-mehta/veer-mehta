@@ -12,7 +12,7 @@
         "created_at",
         "updated_at",
         "languages",
-        "total_commits",
+        "total_commits"
     ],
     "additional_info": "",
     "preferred_color": "lightblue",
