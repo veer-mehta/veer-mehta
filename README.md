@@ -16,7 +16,7 @@ config:
 ---
 classDiagram
     direction LR
-    class veer {
+    class veer["readme.md"] {
         ​      .--#34;#34;--.   
         ​     / #91;#93; #95; #95; #92;  
         ​    #95;| o#95;#95;LII |#95;     me@veer-mehta
