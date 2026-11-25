@@ -22,9 +22,9 @@ classDiagram
         ​    #95;|#95;o#95;#95;LII#95;|#95;     me@veer-mehta
         ​   / | ====== | #92;    -------------
         ​   |#95;| ====== |#95;|    os#58; arch #40;btw#41;
-        ​    | |#34; ||  | |     location#58; amd, guj, in
-        ​    | |LI  o | |     learning#58; golang, opengl
-        ​    | |#39;----#39;| | 
+        ​    || #34; ||   ||     location#58; amd, guj, in
+        ​    || LI  o  ||     learning#58; golang, opengl
+        ​    ||#39;------#39;|| 
         ​   /#95;#95;|      |#95;#95;#92;
     }
     class projects["projects"] {
