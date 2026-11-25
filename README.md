@@ -34,11 +34,11 @@ classDiagram
         proof-of-carbon
     }
     class hobbies["hobbies"] {
-        +codes
         +plays piano
-        +watches whatever tarantino, scorcesse and lynch make
+        +watches whatever tarantino, scorsese and lynch make
         +reads scifi and classic books
         +enjoys playing and making video games
+        +codes
     }
     class web["web"] {
         +typescript / javascript
@@ -57,6 +57,7 @@ classDiagram
 
     veer --> projects : codes
     veer --> hobbies
+    hobbies ..> projects
     projects --> web
     projects --> ml
     projects --> gamedev
