@@ -40,18 +40,24 @@ classDiagram
         +reads scifi and comic scifi books
         +plays video games
     }
-    class techstack["techstack"] {
-        +python mostly
+    class web["web"] {
         +typescript / javascript
-        +c# / c/c++ / lua
-        +solidity
         +mern
         +python + fastapi + postgres
+        +solidity
+    }
+    class ml["ml"] {
+        +python
         +ml and rl stuff
-        +linux
+    }
+    class gamedev["game dev"] {
+        +c# / c/c++
+        +lua
     }
 
     veer --> projects : codes
     veer --> hobbies
-    projects --> techstack : does it in
+    projects --> web : does it in
+    projects --> ml : does it in
+    projects --> gamedev : does it in
 ```
