@@ -36,9 +36,9 @@ classDiagram
     class hobbies["hobbies"] {
         +codes
         +plays piano
-        +watches tarantino and scorsese films
+        +watches whatever tarantino, scorcesse and lynch make
         +reads scifi and comic scifi books
-        +games
+        +enjoys playing and making video games
     }
     class web["web"] {
         +typescript / javascript
