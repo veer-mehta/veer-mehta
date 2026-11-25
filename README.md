@@ -47,15 +47,11 @@ classDiagram
         +solidity
     }
     class ml["ml"] {
-        +python
-        +pytorch / torchvision
-        +numpy / pandas / scipy
-        +matplotlib / seaborn
-        +streamlit
-        +rag pipeline
-        +mcp / fastmcp
+        +pytorch
+        +keras
+        +fastmcp
         +pgvector
-        +scrapy / playwright
+        +scrapy / playwright / selenium
     }
     class gamedev["game dev"] {
         +c# / c/c++
