@@ -48,7 +48,11 @@ classDiagram
     }
     class ml["ml"] {
         +python
-        +ml and rl stuff
+        +pytorch / torchvision
+        +sentence-transformers
+        +numpy / pandas / scipy
+        +matplotlib / seaborn
+        +streamlit
     }
     class gamedev["game dev"] {
         +c# / c/c++
