@@ -49,10 +49,13 @@ classDiagram
     class ml["ml"] {
         +python
         +pytorch / torchvision
-        +sentence-transformers
         +numpy / pandas / scipy
         +matplotlib / seaborn
         +streamlit
+        +rag pipeline
+        +mcp / fastmcp
+        +pgvector
+        +scrapy / playwright
     }
     class gamedev["game dev"] {
         +c# / c/c++
