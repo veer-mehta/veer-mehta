@@ -46,7 +46,7 @@ classDiagram
         +python + fastapi + postgres
         +solidity
     }
-    class ml["ml and ai"] {
+    class ml["ml and ai dev"] {
         +pytorch
         +fastmcp
         +pgvector
