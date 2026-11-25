@@ -38,7 +38,7 @@ classDiagram
         +plays piano
         +watches tarantino and scorsese films
         +reads scifi and comic scifi books
-        +plays video games
+        +games
     }
     class web["web"] {
         +typescript / javascript
@@ -57,7 +57,7 @@ classDiagram
 
     veer --> projects : codes
     veer --> hobbies
-    projects --> web : does it in
-    projects --> ml : does it in
-    projects --> gamedev : does it in
+    projects --> web
+    projects --> ml
+    projects --> gamedev
 ```
