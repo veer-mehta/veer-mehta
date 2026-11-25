@@ -53,8 +53,9 @@ classDiagram
         +scrapy / playwright / selenium
     }
     class gamedev["game dev"] {
-        +c# / c/c++
-        +lua
+        +unity #40;c#35;#41;
+        +godot #40;gdscript#41;
+        +phaser #40;typescript#41;
     }
 
     veer --> projects : codes
