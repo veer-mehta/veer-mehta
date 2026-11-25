@@ -37,7 +37,7 @@ classDiagram
         +codes
         +plays piano
         +watches whatever tarantino, scorcesse and lynch make
-        +reads scifi and comic scifi books
+        +reads scifi and classic books
         +enjoys playing and making video games
     }
     class web["web"] {
