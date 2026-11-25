@@ -48,7 +48,6 @@ classDiagram
     }
     class ml["ml"] {
         +pytorch
-        +keras
         +fastmcp
         +pgvector
         +scrapy / playwright / selenium
